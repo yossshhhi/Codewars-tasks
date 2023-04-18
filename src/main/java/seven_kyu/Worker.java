@@ -4,6 +4,8 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
 
+// https://www.codewars.com/kata/5b2b4836b6989d207700005b/solutions/java
+
 public class Worker {
     public void execute(Runnable action, int nTimes) {
         int nThreads = 100;
