@@ -1,11 +1,11 @@
-package five_kyu_test;
+package four_kyu_test;
 
-import five_kyu.Snail;
+import four_kyu.Snail;
 import org.junit.Assert;
 import org.junit.Test;
-import org.junit.runners.JUnit4;
+
 import java.util.Arrays;
-import java.util.Random;
+
 import static java.util.stream.Collectors.joining;
 
 public class SnailTest {

@@ -1,4 +1,4 @@
-package five_kyu;
+package four_kyu;
 
 import java.util.ArrayList;
 import java.util.List;
