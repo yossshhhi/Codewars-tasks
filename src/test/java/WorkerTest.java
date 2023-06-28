@@ -1,10 +1,9 @@
-package seven_kyu;
-
 import java.util.Random;
 import java.util.concurrent.atomic.AtomicInteger;
 
 import org.junit.Assert;
 import org.junit.Test;
+import seven_kyu.Worker;
 
 
 public class WorkerTest {

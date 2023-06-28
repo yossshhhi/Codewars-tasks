@@ -1,6 +1,7 @@
 package five_kyu_test;
 
 import five_kyu.LoopInspector;
+import five_kyu.Node;
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 

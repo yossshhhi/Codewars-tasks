@@ -1,4 +1,4 @@
-package five_kyu_test;
+package five_kyu;
 
 public class Node {
     private Node next;

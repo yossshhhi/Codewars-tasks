@@ -1,6 +1,6 @@
 package five_kyu;
 
-import five_kyu_test.Node;
+import five_kyu.Node;
 import java.util.LinkedHashMap;
 import java.util.Map;
 

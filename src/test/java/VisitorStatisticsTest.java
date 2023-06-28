@@ -1,9 +1,8 @@
-package six_kyu;
-
 import java.util.concurrent.CountDownLatch;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
+import six_kyu.VisitorStatistics;
 
 public class VisitorStatisticsTest {
     private VisitorStatistics visitorStatistics;
